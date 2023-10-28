@@ -134,7 +134,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 
 ### 中国大学论文模板
 
-- [pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst): 北京大学学位论文模板,Typst template for dissertations in Peking University (PKU).
+- [pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst): 北京大学学位论文模板
 - [BUAA-typst](https://github.com/cherichy/BUAA-typst): 北京航空航天大学学位论文模板
 - [bupt-typst](https://github.com/QQKdeGit/bupt-typst): 北京邮电大学本科学士学位论文模板
 - [HUST-typst-template](https://github.com/werifu/HUST-typst-template): 用于华科毕业设计（本科）的 typst 模板。
@@ -142,7 +142,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [sysu-thesis-typst](https://github.com/howardlau1999/sysu-thesis-typst): 中山大学学位论文 Typst 模板
 - [ZJGSU-typst-template](https://github.com/jujimeizuo/ZJGSU-typst-template): 浙江工商大学毕业设计（本科）的 typst 模板。
 - [CQUPTypst](https://github.com/jerrita/CQUPTypst): 一个 Typest 模板，但是大专 
-- [zjut-report-typst](https://github.com/zjutjh/zjut-report-typst): 浙江工业大学一些实验报告的 Typst 模板, Some report templates of Zhejiang University of Technology.
+- [zjut-report-typst](https://github.com/zjutjh/zjut-report-typst): 浙江工业大学一些实验报告的 Typst 模板
 - [HIT-Thesis-Typst](https://github.com/chosertech/HIT-Thesis-Typst): 适用于哈尔滨工业大学学位论文的 Typst 模板
 - [nju-thesis-typst](https://github.com/nju-lug/nju-thesis-typst): 南京大学学位论文 Typst 模板，使用 Typst 包管理、闭包等现代编程语言特性开发，一个更方便编辑和拓展的模板
 
