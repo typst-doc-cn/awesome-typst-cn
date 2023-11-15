@@ -169,7 +169,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [typst-uwthesis](https://github.com/yangwenbo99/typst-uwthesis) - 用于撰写论文的 Typst 模板，具有工作缩写列表功能
 - [typstry](https://github.com/qjcg/typstry) - Typst 模板和示例的编织
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template) - MLA 第 9 版模板
-- [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - 可书写的游戏主持屏幕插图
+- [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - 可涂写的 GM 帷幕的内页
 - [french-association-status](https://github.com/coco33920/typst-association-status) - 用于法国协会编写状态的模板
 
 ### 作业
