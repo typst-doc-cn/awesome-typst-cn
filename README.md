@@ -225,6 +225,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [typst-codelst](https://github.com/jneug/typst-codelst) - 用于呈现源代码的 Typst 包
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox) - 用于 Typst 表格中的对角线分隔线的库
 - [typst-tablex](https://github.com/PgBiel/typst-tablex) - 更强大和可定制的 Typst 表格
+- [typst-tablem](https://github.com/PgBiel/typst-tablex) - 在 Typst 中轻松编写类 markdown 表格
 
 ### 图形
 
@@ -285,3 +286,4 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 
 - [diapo](https://github.com/lvignoli/diapo) - 一种极简和简约的演示模板。
 - [polylux](https://github.com/andreasKroepelin/polylux) - 在 Typst 中创建演示幻灯片
+- [pinit](https://github.com/OrangeX4/typst-pinit) - 用于更好地在 Typst 中编写 Slides 的相对定位工具包
