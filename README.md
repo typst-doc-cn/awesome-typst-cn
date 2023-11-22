@@ -12,6 +12,7 @@
 
 **Typst 非官方中文文档网站:** https://typst-doc-cn.github.io/docs/
 
+除了文档，还可以考虑阅读 [typst-examples-book](https://sitandr.github.io/typst-examples-book/book/)，里面包含了一些 Typst 的高级知识、简单示例，以及一些最佳实践。
 
 ## 关于 Typst
 
