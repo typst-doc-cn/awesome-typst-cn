@@ -44,6 +44,8 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
     - [通用](#通用)
     - [作业](#作业)
     - [CV](#cv)
+      - [示例](#示例)
+      - [模板](#模板)
     - [日历 / 课程表](#日历--课程表)
     - [脚注和尾注](#脚注和尾注)
     - [格式](#格式)
@@ -53,6 +55,9 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
     - [数学](#数学)
     - [音乐](#音乐)
     - [物理](#物理)
+    - [会议](#会议)
+    - [期刊](#期刊)
+    - [基金/提案](#基金提案)
     - [工程](#工程)
     - [绘图](#绘图)
     - [海报](#海报)
@@ -67,13 +72,13 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [Typst 文档](https://typst.app/docs)
 - [GitHub](https://github.com/typst/typst)
 - [博客](https://typst.app/blog/)
-- 社交 - [Discord] [Instagram] [LinkedIn] [Mastodon] [Twitter]
+- 社交 - [Discord] [Instagram] [LinkedIn] [Mastodon] [X]
 
 [discord]: https://discord.gg/2uDybryKPe
 [instagram]: https://instagram.com/typstapp/
 [linkedin]: https://www.linkedin.com/company/typst/
 [mastodon]: https://mastodon.social/@typst
-[twitter]: https://twitter.com/typstapp/
+[X]: https://twitter.com/typstapp/
 
 ## 集成和工具
 
@@ -114,6 +119,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [typst-sympy-calculator](https://github.com/OrangeX4/vscode-typst-sympy-calculator) - 用于 Typst 数学计算的 VS Code 扩展，包括算术、微积分、矩阵、自定义变量和自定义函数
 - [typst.nvim](https://github.com/SeniorMars/typst.nvim) - 正在开发中。目标：TreeSitter 高亮、代码片段和与 Neovim 的顺畅集成
 - [typst.vim](https://github.com/kaarmu/typst.vim) - Typst 的 Vim 插件
+- [typst-conceal.vim](https://github.com/MrPicklePinosaur/typst-conceal.vim) - Vim/Nvim 插件，用于替换 typst 长符号到 unicode 字符
 - [Typst Sync](https://github.com/OrangeX4/vscode-typst-sync) - 用于 Typst 本地包管理和同步的 VS Code 扩展
 
 ### 编程
@@ -156,9 +162,6 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [Typst-Paper-Template](https://github.com/jxpeng98/Typst-Paper-Template) - 用于工作论文的 Typst 模板
 - [LaPreprint](https://github.com/rowanc1/LaPreprint) - 适用于 Typst 的漂亮论文模板
 - [gloss-awe](https://github.com/RolfBremer/gloss-awe) - 自动生成的术语表页（从 typst-glossary 改名而来）
-- [ieee-conference-typst-template](https://github.com/DawnEver/ieee-conference-typst-template) - 用于撰写 Typst 的 IEEE 会议模板
-- [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - 模仿 LaTeX IEEE 交易模板（`ieee-trans.cls`）的模板
-- [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) - 用于撰写 Typst 的 IEEE 论文模板
 - [in-dexter](https://github.com/RolfBremer/in-dexter) - 自动生成的索引页（从 typst-index 改名而来）
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis) - 用于撰写简单论文的 Typst 模板
 - [typst-invoice](https://github.com/erictapen/typst-invoice) - 从 TOML 文件生成发票
@@ -171,6 +174,8 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template) - MLA 第 9 版模板
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - 可涂写的 GM 帷幕的内页
 - [french-association-status](https://github.com/coco33920/typst-association-status) - 用于法国协会编写状态的模板
+- [aiaa-typst-template](https://gitlab.com/waterlubber/aiaa-typst-template) - 用于AIAA（美国航空航天学会）论文的模板。
+
 
 ### 作业
 
@@ -181,6 +186,12 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [typst-teacher-template](https://github.com/jomaway/typst-teacher-templates) - 用于创建我的课程工作表和考试的 Typst 模板的集合
 
 ### CV
+
+#### 示例
+
+- [bare-bones-cv](https://github.com/caffeinatedgaze/bare-bones-cv) – 一个包含必要要素的极简主义简历。它似乎与 ATS 非常兼容。
+
+#### 模板
 
 - [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) - 简单的 Typst CV 模板，灵感来自 AltaCV by LianTze Lim
 - [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) - Harkunwar Kochar 制作的现代、吸引人的 CV/简历模板
@@ -195,6 +206,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [typst-cv-template1](https://github.com/vaibhavjhawar/typst-cv-template1) - 受 Alessandro Plasmati 的 Graduate CV LaTeX 模板启发的 CV 模板
 - [typst-cv-template](https://github.com/skyzh/typst-cv-template) - 适用于 Typst 的中文 CV 模板
 - [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume) - 受多个模板启发的随意而优雅的简历模板
+- [typst-neat-cv](https://github.com/UntimelyCreation97/typst-neat-cv) - 一种现代、简约和优雅的Typst简历模板，灵感来自于 mintyfrankie 的`Brilliant CV`。
 - [typst-resume-sans](https://github.com/mizlan/typst-resume-sans) - 时尚而朴素的无衬线字体简历模板
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template) - 受 Awesome-CV 项目启发的美观样式
 - [typst-resume-template](https://github.com/hexWars/resume) - 使用 Typst 设计的漂亮简历模板
@@ -261,6 +273,21 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 ### 物理
 
 - [physics](https://github.com/Leedehai/typst-physics) - 用于常见物理符号表示的库，例如向量和矢量场、矩阵、微分、导数、Dirac 括号、张量、同位素和数字信号序列。
+
+### 会议
+
+- [aiaa-typst](https://github.com/isaacew/aiaa-typst) - 一种按照美国航空航天学会风格创建会议论文的模板。
+- [ieee-conference-typst-template](https://github.com/DawnEver/ieee-conference-typst-template) - 用于撰写 Typst 的 IEEE 会议模板
+- [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) - 用于撰写 Typst 的 IEEE 论文模板
+- [ifacconf-typst](https://github.com/avonmoll/ifacconf-typst) - 一种按照国际自动控制联合会风格创建的模板
+
+### 期刊
+
+- [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - 模仿 LaTeX IEEE 交易模板（`ieee-trans.cls`）的模板
+
+### 基金/提案
+
+- [typst-nsf-templates](https://github.com/ntjess/typst-nsf-templates) - 国家科学基金会（NSF）通用模板和常见提案类型的大纲。
 
 ### 工程
 
