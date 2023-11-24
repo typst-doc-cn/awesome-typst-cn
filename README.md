@@ -101,6 +101,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 ### 命令行工具
 
 - [typstfmt](https://github.com/astrale-sharp/typstfmt/) - Typst 语言的基本格式化程序，未来还有更多功能！
+- [typst-preview](https://github.com/Enter-tainer/typst-preview) - 在浏览器中实时预览 Typst
 - [typst-live](https://github.com/ItsEthra/typst-live) - 在 Web 浏览器中实时重新加载 PDF
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc) - Pandoc 的 Typst 自定义读写器
 
@@ -112,7 +113,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 
 - [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst) - 用于 Typst 文件格式的 TreeSitter 解析器
 - [Typst LSP VS Code 扩展](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp)
-- [Typst Preview VS Code 扩展](https://marketplace.visualstudio.com/items?itemName=mgt19937.typst-preview) - 立即在 VS Code 中预览您的 Typst 文件
+- [Typst Preview VS Code 扩展](https://marketplace.visualstudio.com/items?itemName=mgt19937.typst-preview) - 在 VSCode 中实现 typst 实时预览
 - [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst) - 重点放在正确性上的 tree-sitter 语法分析器
 - [obsidian-typst](https://github.com/fenjalien/obsidian-typst) - 使用 Typst 将 Obsidian 中的 Typst 代码块呈现为图像的插件，通过 WASM 的力量！
 - [typst-lsp](https://github.com/nvarner/typst-lsp) - Typst 的全新语言服务器，以及 VS Code 扩展
