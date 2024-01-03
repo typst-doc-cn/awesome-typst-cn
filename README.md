@@ -153,6 +153,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [zjut-report-typst](https://github.com/zjutjh/zjut-report-typst): 浙江工业大学一些实验报告的 Typst 模板
 - [HIT-Thesis-Typst](https://github.com/chosertech/HIT-Thesis-Typst): 适用于哈尔滨工业大学学位论文的 Typst 模板
 - [nju-thesis-typst](https://github.com/nju-lug/nju-thesis-typst): 南京大学学位论文 Typst 模板，使用 Typst 包管理、闭包等现代编程语言特性开发，一个更方便编辑和拓展的模板
+- [HEU-Report-Typst](https://github.com/a-kkiri/HEU-Report-Typst): 哈尔滨工程大学课程作业/结课汇报的通用简易 Typst 模板
 
 
 ### 通用
@@ -177,6 +178,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - 可涂写的 GM 帷幕的内页
 - [french-association-status](https://github.com/coco33920/typst-association-status) - 用于法国协会编写状态的模板
 - [aiaa-typst-template](https://gitlab.com/waterlubber/aiaa-typst-template) - 用于AIAA（美国航空航天学会）论文的模板。
+- [SimpleNote](https://github.com/a-kkiri/SimpleNote) - 用于编写简易课程笔记的 Typst 模板
 
 
 ### 作业
