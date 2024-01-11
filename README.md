@@ -95,7 +95,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 ### CI/CD
 
 - [gitlab-ci-typst](https://gitlab.com/IvanSanchez/gitlab-ci-typst) - 使用 GitLab CI 管道构建 Typst 文档
-- [setup-typst](https://github.com/yusancky/setup-typst) - 用于在多个操作系统上安装 Typst 的 GitHub 操作
+- [setup-typst](https://github.com/typst-community/setup-typst) - 使用 GitHub 操作（Actions）安装 Typst
 - [typst-action](https://github.com/lvignoli/typst-action) - 使用 GitHub 操作构建 Typst 文档
 
 ### 命令行工具
@@ -107,7 +107,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 
 ### 编辑器
 
-- [typstudio](https://github.com/Cubxity/typstudio) - 使用 Tauri 构建的正在开发中的桌面编辑器
+- [typstudio](https://github.com/Cubxity/typstudio) - 正在开发中的使用 Tauri 构建的桌面编辑器
 
 ### 编辑器集成
 
