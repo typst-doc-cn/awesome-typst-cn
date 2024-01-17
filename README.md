@@ -123,6 +123,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [typst.vim](https://github.com/kaarmu/typst.vim) - Typst 的 Vim 插件
 - [typst-conceal.vim](https://github.com/MrPicklePinosaur/typst-conceal.vim) - Vim/Nvim 插件，用于替换 typst 长符号到 unicode 字符
 - [Typst Sync](https://github.com/OrangeX4/vscode-typst-sync) - 用于 Typst 本地包管理和同步的 VS Code 扩展
+- [Typst Math](https://github.com/supersurviveur/typst-math) - 在 VSCode 编辑器中预览 typst 数学公式
 
 ### 编程
 
