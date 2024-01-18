@@ -180,6 +180,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [french-association-status](https://github.com/coco33920/typst-association-status) - 用于法国协会编写状态的模板
 - [aiaa-typst-template](https://gitlab.com/waterlubber/aiaa-typst-template) - 用于AIAA（美国航空航天学会）论文的模板。
 - [SimpleNote](https://github.com/a-kkiri/SimpleNote) - 用于编写简易课程笔记的 Typst 模板
+- [mcm-icm-typst-template](https://github.com/DawnEver/mcm-icm-typst-template) - 美国大学生数学建模比赛（美赛, MCM/ICM） Typst 模版.
 
 
 ### 作业
@@ -198,6 +199,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 
 #### 模板
 
+- [typst-academic-cv](https://github.com/DawnEver/typst-academic-cv) - Typst 学术 CV 模版
 - [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) - 简单的 Typst CV 模板，灵感来自 AltaCV by LianTze Lim
 - [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) - Harkunwar Kochar 制作的现代、吸引人的 CV/简历模板
 - [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) - 受 LaTeX `Awesome-CV` 项目启发的具有多语言支持等特点的 CV 模板
